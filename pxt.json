@@ -1,9 +1,10 @@
 {
-    "name": "MINECRAFT PARKUOR!!!",
+    "name": "MINECRAFT PARKUOR HARD!!!",
     "description": "",
     "dependencies": {
         "device": "*",
-        "tilemaps": "github:microsoft/pxt-tilemaps#v1.11.0"
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.11.0",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3"
     },
     "files": [
         "main.blocks",
